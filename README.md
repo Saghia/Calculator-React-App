@@ -1,3 +1,3 @@
-# BETTER CREATE REACT APP THAN CREATE REACT APP
-in this project we can see easily how components and props work! enjoy and leave a star!
+# CALCULATOR REACT APP CHALLENGE 24H
+Simple Calculator App Responsive with basic operations
 
